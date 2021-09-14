@@ -5,6 +5,8 @@
 *.tfstate
 *.tfstate.*
 
+.dccache
+
 # Crash log files
 crash.log
 
